@@ -1,0 +1,36 @@
+20221122	11:22:17	f8b83390-0d98-4b44-92cb-0808a0cdb40f	Error: Not allowed by CORS : https://cloud.mongodb.com
+20221122	12:25:55	ae9c9a99-fbbb-4a63-97eb-67230041dd25	Error: No default engine was specified and no extension was provided. : undefined
+20221122	12:39:19	4b69a83f-0d83-4de6-a0f7-c325cfed8d02	Error: No default engine was specified and no extension was provided. : undefined
+20221122	14:59:43	a55e057e-a341-4e44-861a-dec8726efd4f	TypeError: Db.getOrder is not a function : undefined
+20221122	15:07:02	3e677224-9fbb-438a-a6bd-8e9d94187af2	TypeError: Db.getOrder is not a function : undefined
+20221122	22:30:02	0586eed6-057c-47e7-a7fd-8f75a0b76dd5	TypeError: Db.getOrders is not a function : undefined
+20221122	22:31:46	636a27a0-e06e-48d4-bdd6-e44178483735	TypeError: Class constructor dbOperation cannot be invoked without 'new' : undefined
+20221123	10:43:34	eb50cb19-23e1-4f5c-bd23-63e84df1e7f2	ReferenceError: dbConfig is not defined : undefined
+20221129	09:39:46	9c7fd593-5451-47b7-adec-d8ea5af3dbd0	SyntaxError: Unexpected token } in JSON at position 31 : undefined
+20221129	11:06:33	9b3712ad-615e-448b-a232-3f37c94894a0	ReferenceError: sql is not defined : undefined
+20221129	11:07:10	a4bce0d8-1110-47f3-943c-3d54865e287c	TypeError: Db.connection is not a function : undefined
+20221129	11:07:58	75bc5aaf-b4d3-465d-9751-dff75482e4e5	TypeError: Db.config is not a function : undefined
+20221129	12:09:55	e66510b7-9e08-4513-9c61-d7f5c3627906	SyntaxError: Unexpected string in JSON at position 25 : undefined
+20221129	17:04:37	05b221d7-c962-41bd-91d4-857a1fa308d3	Error: Not allowed by CORS : http://localhost:3000
+20221129	20:00:57	b03477ae-94f4-4d3c-9a15-fd0295943e58	TypeError: app.use is not a function : undefined
+20221129	20:05:59	3d21160e-7453-4826-aecf-cf5175bb33dc	TypeError: Cannot read properties of undefined (reading 'findAll') : undefined
+20221129	20:08:17	3ae3eeef-06ce-4654-92bf-f62c1de5975c	ReferenceError: Tutorial is not defined : undefined
+20221129	20:09:07	6bd9d8b9-fba2-4e54-9fff-fce11afd4f4a	TypeError: Cannot read properties of undefined (reading 'findAll') : undefined
+20221129	20:10:48	8df47bb7-82d5-4643-9cf8-6b9d5375a683	TypeError: app.use is not a function : undefined
+20221129	20:11:49	29bbe9ad-eb49-4f98-8ded-7890ea44c6ad	TypeError: app.use is not a function : undefined
+20221129	21:48:21	375c9429-9de1-4955-8345-fc88c9e1f59d	TypeError: Cannot read properties of undefined (reading 'findAll') : undefined
+20221130	08:02:15	b1f1f1c3-587e-4a51-b56f-2de77f3f5eea	TypeError: Cannot read properties of undefined (reading 'findAll') : undefined20221202	16:13:56	a60196c2-c47b-48b5-a5d6-ff4ef28180de	Error: Not allowed by CORS : http://localhost:3001
+20221206	21:28:18	fabd38a0-3c26-45b9-ab48-272e43185942	Error: Not allowed by CORS : http://localhost:3000
+20221206	21:28:18	4d78dce4-f12d-4949-a967-3e0a6a717e66	Error: Not allowed by CORS : http://localhost:3000
+20221206	21:28:18	6d3460ab-8a35-48a3-bb66-1f4cb843d9e7	Error: Not allowed by CORS : http://localhost:3000
+20221206	21:28:28	78b6fc81-5339-46ef-96ad-91347294aed8	Error: Not allowed by CORS : http://localhost:3000
+20221206	21:28:28	8f94a6ae-a25e-4d5e-bcc9-f7cbd111d919	Error: Not allowed by CORS : http://localhost:3000
+20221206	21:28:28	1a2731eb-48f6-46b0-86d9-9e8184b8b952	Error: Not allowed by CORS : http://localhost:3000
+20221207	22:50:11	5df34332-9e00-48b1-9dce-1e09cb399355	ReferenceError: id is not defined : undefined
+20221209	10:04:37	6b38beb8-3671-4990-bdae-9f6062106930	Error: Not allowed by CORS : https://adminhotel.vercel.app
+20221209	10:04:37	c129166d-d430-4bdc-ba87-2e593d47f3b2	Error: Not allowed by CORS : https://adminhotel.vercel.app
+20221209	10:04:41	93810c92-0358-4c49-b955-98f92dc78505	Error: Not allowed by CORS : https://adminhotel.vercel.app
+20221209	10:04:41	8cfc8a6c-ae9b-4c64-8837-fa89bb6194b9	Error: Not allowed by CORS : https://adminhotel.vercel.app
+20221209	10:17:05	66a3395b-dade-443e-b98e-b6bb1d811ab0	Error: Not allowed by CORS : https://xainhotel.vercel.app
+20221209	11:49:19	58086afa-40af-4bee-88e4-7302406914d5	TypeError: Cannot read properties of undefined (reading 'findAll') : http://localhost:3000
+20221209	11:49:19	1379d6b2-e7a2-4dc4-a1da-2aa59d400ce9	TypeError: Cannot read properties of undefined (reading 'findAll') : http://localhost:3000
