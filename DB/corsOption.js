@@ -1,8 +1,8 @@
 //cross origin resourse sharing
 const allowedOrigins = [
-    'https://www.googlee.com',
+    'https://de29-196-216-92-229.in.ngrok.io',
+    'http://localhost:5000',
     'http://localhost:3000',
-    'http://localhost:3001',
     'http://localhost:3002',
     'https://xainhotel.vercel.app',
     'https://adminhotel.vercel.app'

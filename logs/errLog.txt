@@ -34,3 +34,9 @@
 20221209	10:17:05	66a3395b-dade-443e-b98e-b6bb1d811ab0	Error: Not allowed by CORS : https://xainhotel.vercel.app
 20221209	11:49:19	58086afa-40af-4bee-88e4-7302406914d5	TypeError: Cannot read properties of undefined (reading 'findAll') : http://localhost:3000
 20221209	11:49:19	1379d6b2-e7a2-4dc4-a1da-2aa59d400ce9	TypeError: Cannot read properties of undefined (reading 'findAll') : http://localhost:3000
+20230105	22:16:46	449e09c9-58ba-47a4-9312-7bac859b4346	Error: Not allowed by CORS : http://localhost:5000
+20230105	22:17:08	abf2cf1c-8583-47c1-b88f-b082d1d06eca	Error: Not allowed by CORS : http://localhost:5000
+20230107	11:31:38	c2900628-ee58-445b-bb7e-d4d0f0420252	Error: Not allowed by CORS : http://localhost:3000
+20230107	11:32:13	e689cf05-f0ca-4f7a-bb90-6c47f319a312	Error: Not allowed by CORS : http://localhost:3000
+20230107	11:32:41	623cec41-c093-44bc-907b-877f8185f009	Error: Not allowed by CORS : http://localhost:3000
+20230107	11:34:38	993791be-73c3-40ca-9d26-e3694dd89c75	Error: Not allowed by CORS : http://localhost:3000
