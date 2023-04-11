@@ -53,15 +53,15 @@ app.use(errorHandler)
 
 //server connection
 const PORT = process.env.PORT
-const server = app.listen(PORT, () => console.log(`Server is running on http://localhost:${PORT}`))
+const server = app.listen(PORT, () => console.log(`Server is running on PORT:${PORT}`))
 
 
 // Handled Promise Rejection
-process.on("unhandledRejection", (err) => {
-    console.log(`Error: ${err.message}`);
-    console.log(`Shutting down the server due to Unhandled Promise Rejection`);
+// process.on("unhandledRejection", (err) => {
+//     console.log(`Error: ${err.message}`);
+//     console.log(`Shutting down the server due to Unhandled Promise Rejection`);
 
-    server.close(() => {
-        process.exit(1);
-    });
-});
+//     server.close(() => {
+//         process.exit(1);
+//     });
+// });

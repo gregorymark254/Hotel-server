@@ -52,3 +52,5 @@
 20230406	13:40:40	491035cb-c71c-4570-ac4e-22ec3da21c8e	POST	http://localhost:3000	/api/v1/register
 20230406	13:41:49	95ad5805-3ad7-49b2-ac44-e62c002de37c	POST	http://localhost:3000	/api/auth/register
 20230406	13:42:56	fe2b3c5f-8724-4e79-b9f6-ca617194de6a	POST	http://localhost:3000	/api/auth/register
+20230411	15:45:25	1f85591f-40fa-49ca-931e-cef67495a4fb	GET	undefined	/
+20230411	15:45:25	be3b28c7-9920-4448-9c2f-82a4e675cb19	GET	undefined	/favicon.ico
