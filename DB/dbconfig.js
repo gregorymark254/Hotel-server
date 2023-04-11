@@ -1,6 +1,6 @@
  module.exports = {
   DBHOST: process.env.DBHOST,
-  DBPORT: process.env.DBUSER,
+  DBPORT: process.env.DBPORT,
   DBUSER: process.env.DBUSER,
   DBPASSWORD: process.env.DBPASSWORD,
   DATABASE: process.env.DATABASE,
